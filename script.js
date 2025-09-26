@@ -4,7 +4,7 @@ let codes =["C1","C2","C3","C1","C2","C3","C1","C3"];
 let code ="C1";
 //compteur de la competances
 let count =0;
-// ror pour calculer le nomber de fois de C1
+// for pour calculer le nomber de fois de C1
 for (let index = 0; index < codes.length; index++) {
     if(codes[index]===code){
 
